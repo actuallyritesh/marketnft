@@ -1,0 +1,7 @@
+// Change these values after deployment of the smart contract
+// Change the name of this file to .env 
+
+PROJECT_ID = YOUR PROJECT_ID
+PRIVATE_KEY = YOUR PRIVATE_KEY
+
+
